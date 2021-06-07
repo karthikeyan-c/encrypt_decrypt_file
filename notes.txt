@@ -1,0 +1,5 @@
+1. javac StrongAES.java
+2. java StrongAES
+3. 1.txt.enc created
+4. invoke c.html just like that
+5. upload 1.txt.enc
